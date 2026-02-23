@@ -1,1 +1,0 @@
-{"features": ["tech_generation", "year_inducted", "stealth_rating", "ew_capability", "max_speed_kmph", "range_km", "max_altitude_m", "reliability", "cost_million_usd", "threat_level", "payload_kg", "system_type_enc"], "target": "classification"}
